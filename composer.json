@@ -1,5 +1,5 @@
 {
     "require": {
-        "google/cloud-bigquery": "^1.22"
+        "ramsey/uuid": "^4.2"
     }
 }
