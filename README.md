@@ -1,10 +1,9 @@
 # Either run on Cloud Run
 
-[run]: https://cloud.google.com/run
+[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
 
 # or on local docker
 
-git@github.com:pentium10/uuid386.git
 
 ```
 docker build -t uuiddemo . ; docker run --rm  -p 8080:8080 uuiddemo;
